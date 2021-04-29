@@ -70,7 +70,7 @@ Web3: https://youtube.com/playlist?list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr
 Crosschain : 
 https://docs.symbolplatform.com/concepts/cross-chain-swaps.html
 https://andrecronje.medium.com/deploying-your-own-cross-chain-token-101-240420efd0d9
-
+https://www.binance.com/en/blog/421499824684901059/The-Panama-Project-Making-OneClick-CrossChain-Connection-Possible
 
 Bridge between the tokens :
 https://forum.openzeppelin.com/t/how-to-make-a-bridge-token-between-ethereum-and-binance-smart-chain/4628
@@ -80,3 +80,4 @@ https://medium.com/the-liquidapps-blog/cross-chain-bridge-guide-for-experts-9472
 
 For reference : 
 https://github.com/rsksmart/tokenbridge
+https://github.com/oraclesorg/treasury
