@@ -63,3 +63,20 @@ Build a re-entrancy guard with an array which store boolean value of a variable 
     - truffle exec scripts/bsc-token-balance.js --network bscTestnet , BSC balance should be 1000
 
 ## Project developed by : Solidity, smart contract, web3, node.js
+
+## Refrences
+Web3: https://youtube.com/playlist?list=PLS5SEs8ZftgXXPYBH6rDk4TKnDOvinwJr
+
+Crosschain : 
+https://docs.symbolplatform.com/concepts/cross-chain-swaps.html
+https://andrecronje.medium.com/deploying-your-own-cross-chain-token-101-240420efd0d9
+
+
+Bridge between the tokens :
+https://forum.openzeppelin.com/t/how-to-make-a-bridge-token-between-ethereum-and-binance-smart-chain/4628
+https://medium.com/the-liquidapps-blog/cross-chain-bridge-guide-for-experts-947210576668
+
+
+
+For reference : 
+https://github.com/rsksmart/tokenbridge
